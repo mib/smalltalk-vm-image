@@ -1,0 +1,14 @@
+{
+	"category" : "Alpha-Collections-Abstract",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "ASCollection",
+	"pools" : [
+		 ],
+	"super" : "ASObject",
+	"type" : "normal" }

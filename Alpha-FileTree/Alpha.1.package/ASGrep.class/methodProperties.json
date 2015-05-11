@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"run" : "mib 12/4/2014 13:06" },
+	"instance" : {
+		"displayHelp" : "mib 12/8/2014 12:38",
+		"execute" : "mib 12/11/2014 10:43",
+		"initialize" : "mib 12/8/2014 12:07",
+		"is:substringOf:characterMatcher:" : "mib 12/4/2014 21:03",
+		"loadPatternsFromFile:" : "mib 12/8/2014 06:40",
+		"matchedLinesDo:" : "mib 12/8/2014 06:29",
+		"parseCommandLineArguments" : "mib 12/8/2014 12:43" } }

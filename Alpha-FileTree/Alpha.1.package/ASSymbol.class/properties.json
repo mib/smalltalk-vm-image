@@ -1,0 +1,14 @@
+{
+	"category" : "Alpha-Collections-Strings",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"AllSymbols" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "ASSymbol",
+	"pools" : [
+		 ],
+	"super" : "ASString",
+	"type" : "normal" }

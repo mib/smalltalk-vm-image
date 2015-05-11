@@ -1,0 +1,17 @@
+{
+	"category" : "Alpha-Collections-Streams",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"filename",
+		"forRead",
+		"forWrite",
+		"descriptor" ],
+	"name" : "ASFileStream",
+	"pools" : [
+		 ],
+	"super" : "ASStream",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"accept:" : "mib 10/16/2014 17:05",
+		"isBlock" : "mib 11/21/2014 12:56",
+		"methodRoot" : "mib 10/16/2014 21:39",
+		"methodRoot:" : "mib 10/16/2014 21:38",
+		"parameters" : "mib 10/8/2014 11:36",
+		"parameters:" : "mib 10/8/2014 11:36",
+		"statements" : "mib 10/8/2014 11:36",
+		"statements:" : "mib 10/8/2014 11:36",
+		"temporaries" : "mib 10/8/2014 11:36",
+		"temporaries:" : "mib 10/8/2014 11:36" } }

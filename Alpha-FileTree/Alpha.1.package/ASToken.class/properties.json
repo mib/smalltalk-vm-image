@@ -1,0 +1,15 @@
+{
+	"category" : "Alpha-Compiler-Parser",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"type",
+		"content" ],
+	"name" : "ASToken",
+	"pools" : [
+		 ],
+	"super" : "ASObject",
+	"type" : "normal" }

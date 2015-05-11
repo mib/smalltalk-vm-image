@@ -1,0 +1,14 @@
+{
+	"category" : "Alpha-Kernel-Exceptions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "ASInvalidArgument",
+	"pools" : [
+		 ],
+	"super" : "ASError",
+	"type" : "normal" }

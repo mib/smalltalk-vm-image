@@ -1,0 +1,14 @@
+{
+	"category" : "Alpha-Collections-Sequencable",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "ASArray",
+	"pools" : [
+		 ],
+	"super" : "ASArrayedCollection",
+	"type" : "normal" }

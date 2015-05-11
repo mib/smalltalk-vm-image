@@ -1,0 +1,14 @@
+{
+	"category" : "ASImageBuilder",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"object" ],
+	"name" : "ASFuturePointer",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

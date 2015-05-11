@@ -1,0 +1,14 @@
+{
+	"category" : "Alpha-Compiler",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "ASCompileError",
+	"pools" : [
+		 ],
+	"super" : "ASError",
+	"type" : "normal" }

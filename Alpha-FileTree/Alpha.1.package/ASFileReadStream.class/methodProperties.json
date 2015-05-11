@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"on:" : "mib 12/3/2014 19:59" },
+	"instance" : {
+		"atEnd" : "mib 12/3/2014 19:24",
+		"contents" : "mib 12/3/2014 19:27",
+		"initialize" : "mib 12/3/2014 19:48",
+		"linesDo:" : "mib 12/8/2014 06:43",
+		"linesWithSeparatorsDo:" : "mib 12/4/2014 19:12",
+		"next" : "mib 12/3/2014 19:30",
+		"next:" : "mib 12/4/2014 13:02",
+		"nextPut:" : "mib 12/3/2014 19:29" } }

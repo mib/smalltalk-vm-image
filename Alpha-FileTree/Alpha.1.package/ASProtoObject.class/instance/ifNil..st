@@ -1,0 +1,3 @@
+testing
+ifNil: nilBlock
+	^ self

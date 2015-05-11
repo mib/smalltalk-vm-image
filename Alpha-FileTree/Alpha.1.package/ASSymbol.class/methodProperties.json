@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"fromCharacter:" : "mib 10/17/2014 19:02",
+		"fromString:" : "mib 10/17/2014 19:13",
+		"initialize" : "mib 10/17/2014 19:13",
+		"lookup:" : "mib 10/17/2014 19:26",
+		"new:" : "mib 10/17/2014 19:02" },
+	"instance" : {
+		"," : "mib 11/28/2014 12:11",
+		"=" : "mib 10/17/2014 19:22",
+		"asLowercase" : "mib 12/4/2014 14:33",
+		"asString" : "mib 11/28/2014 12:09",
+		"asSymbol" : "mib 10/17/2014 18:56",
+		"asUppercase" : "mib 12/4/2014 14:33",
+		"at:put:" : "mib 10/17/2014 19:04",
+		"printOn:" : "mib 11/4/2014 14:01",
+		"setString:" : "mib 10/17/2014 19:07" } }

@@ -1,0 +1,18 @@
+{
+	"category" : "Alpha-Compiler-Parser",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"BinaryMessageCharacters",
+		"CharacterTokens",
+		"DecimalNumberCharacters",
+		"NumberCharacters",
+		"SpecialConstants" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"stream" ],
+	"name" : "ASScanner",
+	"pools" : [
+		 ],
+	"super" : "ASObject",
+	"type" : "normal" }

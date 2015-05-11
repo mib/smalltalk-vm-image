@@ -1,0 +1,16 @@
+{
+	"category" : "Alpha-Kernel-Exceptions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"signalContext",
+		"handlerContext",
+		"messageText" ],
+	"name" : "ASException",
+	"pools" : [
+		 ],
+	"super" : "ASObject",
+	"type" : "normal" }

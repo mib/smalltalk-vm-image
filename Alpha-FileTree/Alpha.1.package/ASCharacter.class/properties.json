@@ -1,0 +1,17 @@
+{
+	"category" : "Alpha-Kernel-Characters",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"AsciiCharacters",
+		"DigitCharacters",
+		"LowercaseCharacters",
+		"UppercaseCharacters" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"value" ],
+	"name" : "ASCharacter",
+	"pools" : [
+		 ],
+	"super" : "ASMagnitude",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Alpha-Collections-Unordered",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "ASIdentityDictionary",
+	"pools" : [
+		 ],
+	"super" : "ASDictionary",
+	"type" : "normal" }

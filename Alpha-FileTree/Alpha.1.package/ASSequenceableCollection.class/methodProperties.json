@@ -1,0 +1,28 @@
+{
+	"class" : {
+		"new:streamContents:" : "mib 12/4/2014 21:59",
+		"newFrom:" : "mib 10/25/2014 21:57",
+		"streamContents:" : "mib 10/17/2014 22:07" },
+	"instance" : {
+		"," : "mib 10/25/2014 10:28",
+		"=" : "mib 10/17/2014 19:23",
+		"asArray" : "mib 10/25/2014 22:02",
+		"asOrderedCollection" : "mib 10/25/2014 22:03",
+		"asString" : "mib 10/25/2014 22:03",
+		"beginsWith:" : "mib 10/17/2014 19:28",
+		"collect:" : "mib 10/26/2014 10:47",
+		"copyFrom:to:" : "mib 11/11/2014 16:18",
+		"do:" : "mib 10/23/2014 16:37",
+		"fifth" : "mib 10/16/2014 20:12",
+		"first" : "mib 10/16/2014 20:11",
+		"fourth" : "mib 10/16/2014 20:12",
+		"last" : "mib 10/16/2014 20:11",
+		"nextToLast" : "mib 10/16/2014 20:12",
+		"readStream" : "mib 10/24/2014 18:39",
+		"reject:" : "mib 10/26/2014 10:46",
+		"reversed" : "mib 11/4/2014 15:22",
+		"second" : "mib 10/16/2014 20:11",
+		"select:" : "mib 10/26/2014 10:43",
+		"third" : "mib 10/16/2014 20:11",
+		"withIndexDo:" : "mib 10/16/2014 18:30",
+		"writeStream" : "mib 10/24/2014 18:40" } }

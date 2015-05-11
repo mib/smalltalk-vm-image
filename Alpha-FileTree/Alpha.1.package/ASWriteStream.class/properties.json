@@ -1,0 +1,14 @@
+{
+	"category" : "Alpha-Collections-Streams",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "ASWriteStream",
+	"pools" : [
+		 ],
+	"super" : "ASPositionableStream",
+	"type" : "normal" }

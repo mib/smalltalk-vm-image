@@ -1,0 +1,16 @@
+{
+	"category" : "Alpha-Kernel-Methods",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"selector",
+		"arguments",
+		"lookupClass" ],
+	"name" : "ASMessage",
+	"pools" : [
+		 ],
+	"super" : "ASObject",
+	"type" : "normal" }

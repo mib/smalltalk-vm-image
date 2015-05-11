@@ -1,0 +1,23 @@
+{
+	"category" : "Alpha-Grep",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"inputFilename",
+		"outputFilename",
+		"inputStream",
+		"outputStream",
+		"patterns",
+		"invertMatch",
+		"caseSensitive",
+		"matchWholeLine",
+		"printCount",
+		"displayHelp" ],
+	"name" : "ASGrep",
+	"pools" : [
+		 ],
+	"super" : "ASObject",
+	"type" : "normal" }

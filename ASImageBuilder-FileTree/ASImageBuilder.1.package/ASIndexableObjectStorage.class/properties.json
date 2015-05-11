@@ -1,0 +1,15 @@
+{
+	"category" : "ASImageBuilder",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"IndexableBytes",
+		"IndexablePointers" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "ASIndexableObjectStorage",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

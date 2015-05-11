@@ -1,0 +1,14 @@
+{
+	"category" : "Alpha-Compiler-Parser",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "ASSpecialVariableNode",
+	"pools" : [
+		 ],
+	"super" : "ASVariableNode",
+	"type" : "normal" }

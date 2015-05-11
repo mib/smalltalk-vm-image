@@ -1,0 +1,16 @@
+{
+	"category" : "Alpha-Collections-Streams",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"collection",
+		"position",
+		"endPosition" ],
+	"name" : "ASPositionableStream",
+	"pools" : [
+		 ],
+	"super" : "ASStream",
+	"type" : "normal" }

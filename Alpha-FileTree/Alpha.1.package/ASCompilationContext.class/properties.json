@@ -1,0 +1,15 @@
+{
+	"category" : "Alpha-Compiler",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"variables",
+		"parentContext" ],
+	"name" : "ASCompilationContext",
+	"pools" : [
+		 ],
+	"super" : "ASObject",
+	"type" : "normal" }

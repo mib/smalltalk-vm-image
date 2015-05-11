@@ -1,0 +1,16 @@
+{
+	"category" : "Alpha-Compiler-Parser",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"receiver",
+		"selector",
+		"arguments" ],
+	"name" : "ASMessageNode",
+	"pools" : [
+		 ],
+	"super" : "ASAstNode",
+	"type" : "normal" }

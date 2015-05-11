@@ -1,0 +1,14 @@
+{
+	"category" : "Alpha-Kernel-Exceptions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "ASHalt",
+	"pools" : [
+		 ],
+	"super" : "ASException",
+	"type" : "normal" }

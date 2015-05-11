@@ -1,0 +1,20 @@
+{
+	"category" : "Alpha-Kernel-Methods",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"primitive",
+		"parameterCount",
+		"temporaryCount",
+		"stackSize",
+		"class",
+		"contextTemplate",
+		"selector" ],
+	"name" : "ASCompiledMethod",
+	"pools" : [
+		 ],
+	"super" : "ASObject",
+	"type" : "normal" }

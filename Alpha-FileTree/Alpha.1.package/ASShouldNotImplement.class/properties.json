@@ -1,0 +1,14 @@
+{
+	"category" : "Alpha-Kernel-Exceptions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "ASShouldNotImplement",
+	"pools" : [
+		 ],
+	"super" : "ASSelectorError",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Alpha-Tools",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "ASTranscript",
+	"pools" : [
+		 ],
+	"super" : "ASObject",
+	"type" : "normal" }

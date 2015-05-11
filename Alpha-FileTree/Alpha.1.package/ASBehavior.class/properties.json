@@ -1,0 +1,15 @@
+{
+	"category" : "Alpha-Kernel-Classes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"superclass",
+		"methods" ],
+	"name" : "ASBehavior",
+	"pools" : [
+		 ],
+	"super" : "ASObject",
+	"type" : "normal" }

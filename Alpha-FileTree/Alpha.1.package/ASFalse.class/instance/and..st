@@ -1,0 +1,3 @@
+testing
+and: aBlock
+	^ self

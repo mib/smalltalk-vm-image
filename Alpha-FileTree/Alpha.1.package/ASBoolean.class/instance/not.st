@@ -1,0 +1,3 @@
+logic
+not
+	self subclassResponsibility

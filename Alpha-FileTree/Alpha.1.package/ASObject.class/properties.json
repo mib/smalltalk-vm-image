@@ -1,0 +1,14 @@
+{
+	"category" : "Alpha-Kernel-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "ASObject",
+	"pools" : [
+		 ],
+	"super" : "ASProtoObject",
+	"type" : "normal" }

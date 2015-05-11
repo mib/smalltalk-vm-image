@@ -1,0 +1,16 @@
+{
+	"category" : "Alpha-Compiler-Parser",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"stream",
+		"scanner",
+		"nextToken" ],
+	"name" : "ASParser",
+	"pools" : [
+		 ],
+	"super" : "ASObject",
+	"type" : "normal" }

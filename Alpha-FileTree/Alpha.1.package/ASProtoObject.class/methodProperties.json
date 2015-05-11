@@ -1,0 +1,25 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"==" : "mib 10/10/2014 16:49",
+		"class" : "mib 10/10/2014 17:19",
+		"classVariableAt:" : "mib 10/16/2014 12:39",
+		"classVariableAt:put:" : "mib 10/16/2014 12:40",
+		"doesNotUnderstand:" : "mib 11/29/2014 10:20",
+		"globalVariableAt:" : "mib 10/16/2014 12:33",
+		"globalVariableAt:put:" : "mib 10/16/2014 12:33",
+		"hasClassVariableAt:" : "mib 10/16/2014 12:39",
+		"hasInstanceVariableAt:" : "mib 10/16/2014 12:43",
+		"ifNil:" : "mib 10/10/2014 23:42",
+		"ifNil:ifNotNil:" : "mib 10/10/2014 23:43",
+		"ifNotNil:" : "mib 10/10/2014 23:43",
+		"ifNotNil:ifNil:" : "mib 10/10/2014 23:43",
+		"instanceVariableAt:" : "mib 10/16/2014 12:41",
+		"instanceVariableAt:put:" : "mib 10/16/2014 12:41",
+		"isNil" : "mib 10/10/2014 23:40",
+		"literalVariableAt:" : "mib 10/16/2014 12:37",
+		"literalVariableAt:put:" : "mib 10/16/2014 12:40",
+		"perform:" : "mib 10/13/2014 18:57",
+		"perform:withArguments:" : "mib 10/22/2014 09:49",
+		"~~" : "mib 10/10/2014 17:15" } }

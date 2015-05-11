@@ -1,0 +1,24 @@
+{
+	"category" : "Alpha-Compiler",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Bytecodes",
+		"SpecialSelectors" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"method",
+		"instructions",
+		"literals",
+		"bytecodes",
+		"primitive",
+		"parameterCount",
+		"temporaryCount",
+		"classContext",
+		"compilationContext",
+		"assigningExpression" ],
+	"name" : "ASCompiler",
+	"pools" : [
+		 ],
+	"super" : "ASAstVisitor",
+	"type" : "normal" }

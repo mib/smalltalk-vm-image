@@ -1,0 +1,23 @@
+{
+	"category" : "ASImageBuilder",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"ClassInstanceVariableSize",
+		"FirstFreeOp",
+		"FixedOp",
+		"HeaderSize" ],
+	"commentStamp" : "mib 12/11/2014 11:09",
+	"instvars" : [
+		"stream",
+		"entries",
+		"ops",
+		"nextOp",
+		"symbols",
+		"classes",
+		"processedObjects" ],
+	"name" : "ASImageBuilder",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

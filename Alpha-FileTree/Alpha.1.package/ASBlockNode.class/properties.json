@@ -1,0 +1,17 @@
+{
+	"category" : "Alpha-Compiler-Parser",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"parameters",
+		"statements",
+		"temporaries",
+		"methodRoot" ],
+	"name" : "ASBlockNode",
+	"pools" : [
+		 ],
+	"super" : "ASAstNode",
+	"type" : "normal" }

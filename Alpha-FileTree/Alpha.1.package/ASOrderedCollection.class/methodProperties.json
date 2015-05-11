@@ -1,0 +1,21 @@
+{
+	"class" : {
+		"new" : "mib 10/10/2014 17:22",
+		"new:" : "mib 10/13/2014 13:06",
+		"newFrom:" : "mib 10/13/2014 15:20" },
+	"instance" : {
+		"add:" : "mib 10/10/2014 23:19",
+		"addAll:" : "mib 10/13/2014 12:19",
+		"addAllLast:" : "mib 10/13/2014 12:19",
+		"addFirst:" : "mib 10/13/2014 12:17",
+		"addLast:" : "mib 10/13/2014 12:17",
+		"array:" : "mib 10/10/2014 17:27",
+		"asOrderedCollection" : "mib 10/25/2014 22:04",
+		"at:" : "mib 10/17/2014 14:32",
+		"at:put:" : "mib 12/8/2014 06:26",
+		"growAtBeginning" : "mib 10/13/2014 12:18",
+		"growAtEnd" : "mib 10/13/2014 12:12",
+		"removeFirst" : "mib 10/17/2014 14:30",
+		"removeLast" : "mib 10/17/2014 14:30",
+		"reset" : "mib 10/10/2014 17:28",
+		"size" : "mib 10/10/2014 17:29" } }

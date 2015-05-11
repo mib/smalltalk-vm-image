@@ -1,0 +1,14 @@
+{
+	"category" : "Alpha-Compiler-Parser",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "ASCascadeReceiverNode",
+	"pools" : [
+		 ],
+	"super" : "ASAstNode",
+	"type" : "normal" }

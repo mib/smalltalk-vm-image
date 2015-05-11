@@ -1,0 +1,14 @@
+{
+	"category" : "Alpha-Kernel-Classes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"theClass" ],
+	"name" : "ASMetaclass",
+	"pools" : [
+		 ],
+	"super" : "ASClassDescription",
+	"type" : "normal" }

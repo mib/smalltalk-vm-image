@@ -1,0 +1,15 @@
+{
+	"category" : "Alpha-Kernel-Classes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"instanceVariables",
+		"totalInstanceVariableSize" ],
+	"name" : "ASClassDescription",
+	"pools" : [
+		 ],
+	"super" : "ASBehavior",
+	"type" : "normal" }

@@ -1,0 +1,2 @@
+visiting
+visitMessage: aNode

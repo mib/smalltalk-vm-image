@@ -1,0 +1,3 @@
+accessing
+parameterCount
+	^ parameterCount

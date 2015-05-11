@@ -1,0 +1,14 @@
+{
+	"category" : "Alpha-Kernel-Numbers",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "ASInteger",
+	"pools" : [
+		 ],
+	"super" : "ASNumber",
+	"type" : "normal" }

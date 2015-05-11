@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"on:" : "mib 10/24/2014 19:36" },
+	"instance" : {
+		"atEnd" : "mib 10/17/2014 21:09",
+		"contents" : "mib 10/26/2014 10:46",
+		"contentsUpTo:" : "mib 10/26/2014 10:45",
+		"do:" : "mib 10/17/2014 21:48",
+		"on:" : "mib 12/4/2014 20:58",
+		"peek" : "mib 10/17/2014 21:16",
+		"position" : "mib 10/17/2014 21:16",
+		"reset" : "mib 10/17/2014 21:17",
+		"size" : "mib 10/17/2014 21:48",
+		"skipSeparators" : "mib 10/17/2014 21:21",
+		"skipSeparatorsAndPeekNext" : "mib 10/25/2014 11:45" } }

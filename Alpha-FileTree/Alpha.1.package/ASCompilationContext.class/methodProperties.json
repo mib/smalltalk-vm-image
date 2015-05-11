@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"under:" : "mib 10/16/2014 17:30" },
+	"instance" : {
+		"addBinding:for:" : "mib 10/16/2014 17:34",
+		"bindingFor:" : "mib 10/16/2014 17:33",
+		"initialize" : "mib 10/16/2014 17:30",
+		"parentContext" : "mib 10/16/2014 17:31",
+		"parentContext:" : "mib 10/16/2014 17:31" } }

@@ -1,0 +1,25 @@
+{
+	"class" : {
+		"new" : "mib 10/13/2014 13:03",
+		"new:" : "mib 10/23/2014 10:41",
+		"newFrom:" : "mib 10/13/2014 14:57" },
+	"instance" : {
+		"asDictionary" : "mib 10/25/2014 22:06",
+		"associationsDo:" : "mib 10/13/2014 14:53",
+		"associationsDo:separatedBy:" : "mib 11/4/2014 14:05",
+		"at:" : "mib 10/13/2014 14:18",
+		"at:ifAbsent:" : "mib 12/4/2014 14:27",
+		"at:ifAbsentPut:" : "mib 10/17/2014 14:28",
+		"at:put:" : "mib 10/25/2014 10:15",
+		"do:" : "mib 10/13/2014 13:17",
+		"grow" : "mib 10/23/2014 10:43",
+		"includesKey:" : "mib 10/13/2014 18:43",
+		"keyArray:" : "mib 10/23/2014 10:40",
+		"keysAndValuesDo:" : "mib 10/25/2014 15:46",
+		"keysDo:" : "mib 10/25/2014 09:46",
+		"printContentsOn:" : "mib 11/4/2014 14:07",
+		"scanFor:" : "mib 10/13/2014 14:06",
+		"scanForEmptySlot" : "mib 10/25/2014 09:41",
+		"size" : "mib 10/13/2014 13:59",
+		"valueArray:" : "mib 10/23/2014 10:40",
+		"valuesDo:" : "mib 10/13/2014 13:57" } }

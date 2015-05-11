@@ -1,0 +1,22 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"visit:" : "mib 10/16/2014 17:10",
+		"visitAssignment:" : "mib 10/16/2014 17:10",
+		"visitBlock:" : "mib 10/16/2014 17:10",
+		"visitCascade:" : "mib 10/16/2014 17:10",
+		"visitCascadeReceiver:" : "mib 10/17/2014 09:08",
+		"visitClassVariable:" : "mib 10/16/2014 22:24",
+		"visitConstant:" : "mib 10/16/2014 17:10",
+		"visitGlobalVariable:" : "mib 10/16/2014 22:24",
+		"visitInstanceVariable:" : "mib 10/16/2014 17:11",
+		"visitLiteral:" : "mib 10/16/2014 17:10",
+		"visitLiteralVariable:" : "mib 10/16/2014 17:11",
+		"visitMessage:" : "mib 10/16/2014 17:11",
+		"visitMethod:" : "mib 10/16/2014 17:11",
+		"visitReturn:" : "mib 10/16/2014 17:11",
+		"visitSelector:" : "mib 10/16/2014 17:10",
+		"visitSpecialVariable:" : "mib 10/16/2014 17:11",
+		"visitTemporaryVariable:" : "mib 10/16/2014 17:11",
+		"visitVariable:" : "mib 10/16/2014 17:10" } }

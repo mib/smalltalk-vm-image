@@ -1,0 +1,3 @@
+printing
+cr
+	self lf

@@ -1,0 +1,14 @@
+{
+	"category" : "Alpha-Collections-Abstract",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "ASArrayedCollection",
+	"pools" : [
+		 ],
+	"super" : "ASSequenceableCollection",
+	"type" : "normal" }

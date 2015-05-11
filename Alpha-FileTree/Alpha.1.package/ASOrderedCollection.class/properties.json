@@ -1,0 +1,16 @@
+{
+	"category" : "Alpha-Collections-Sequencable",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"array",
+		"firstIndex",
+		"lastIndex" ],
+	"name" : "ASOrderedCollection",
+	"pools" : [
+		 ],
+	"super" : "ASSequenceableCollection",
+	"type" : "normal" }

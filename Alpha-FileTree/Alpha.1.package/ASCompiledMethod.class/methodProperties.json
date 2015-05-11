@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"class:" : "mib 11/5/2014 08:49",
+		"parameterCount" : "mib 10/16/2014 18:39",
+		"parameterCount:" : "mib 10/16/2014 18:39",
+		"primitive" : "mib 10/16/2014 18:39",
+		"primitive:" : "mib 10/16/2014 18:39",
+		"selector" : "mib 10/24/2014 22:05",
+		"selector:" : "mib 10/24/2014 22:05",
+		"stackSize" : "mib 10/16/2014 18:39",
+		"stackSize:" : "mib 10/16/2014 18:39",
+		"temporaryCount" : "mib 10/16/2014 18:39",
+		"temporaryCount:" : "mib 10/16/2014 18:39" } }

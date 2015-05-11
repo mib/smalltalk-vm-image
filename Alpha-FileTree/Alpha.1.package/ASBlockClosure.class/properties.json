@@ -1,0 +1,22 @@
+{
+	"category" : "Alpha-Kernel-Methods",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"outerContext",
+		"initialProgramCounter",
+		"parameterCount",
+		"temporaryCount",
+		"variableOffset",
+		"stackSize",
+		"contextTemplate",
+		"exceptionHandler",
+		"ensureBlock" ],
+	"name" : "ASBlockClosure",
+	"pools" : [
+		 ],
+	"super" : "ASObject",
+	"type" : "normal" }

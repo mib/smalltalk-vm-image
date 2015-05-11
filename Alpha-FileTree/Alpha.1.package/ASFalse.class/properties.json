@@ -1,0 +1,14 @@
+{
+	"category" : "Alpha-Kernel-Booleans",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "ASFalse",
+	"pools" : [
+		 ],
+	"super" : "ASBoolean",
+	"type" : "normal" }

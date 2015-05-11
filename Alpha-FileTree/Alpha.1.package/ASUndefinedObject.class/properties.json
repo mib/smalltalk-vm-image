@@ -1,0 +1,14 @@
+{
+	"category" : "Alpha-Kernel-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "ASUndefinedObject",
+	"pools" : [
+		 ],
+	"super" : "ASObject",
+	"type" : "normal" }

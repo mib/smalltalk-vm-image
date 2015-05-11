@@ -1,0 +1,14 @@
+{
+	"category" : "Alpha-System-VM",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"CommandLineArguments" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "ASScriptRunner",
+	"pools" : [
+		 ],
+	"super" : "ASObject",
+	"type" : "normal" }

@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"accept:" : "mib 10/16/2014 17:05",
+		"isBlock" : "mib 11/21/2014 12:55",
+		"isCascadeReceiver" : "mib 10/23/2014 21:55",
+		"isMessage" : "mib 10/9/2014 12:54",
+		"isVariable" : "mib 10/9/2014 11:01" } }

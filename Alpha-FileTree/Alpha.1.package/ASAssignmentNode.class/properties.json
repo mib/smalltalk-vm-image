@@ -1,0 +1,15 @@
+{
+	"category" : "Alpha-Compiler-Parser",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"variable",
+		"expression" ],
+	"name" : "ASAssignmentNode",
+	"pools" : [
+		 ],
+	"super" : "ASAstNode",
+	"type" : "normal" }

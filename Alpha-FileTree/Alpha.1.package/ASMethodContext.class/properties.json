@@ -1,0 +1,18 @@
+{
+	"category" : "Alpha-Kernel-Methods",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"receiver",
+		"method",
+		"closure",
+		"outerContext",
+		"selector" ],
+	"name" : "ASMethodContext",
+	"pools" : [
+		 ],
+	"super" : "ASContext",
+	"type" : "normal" }

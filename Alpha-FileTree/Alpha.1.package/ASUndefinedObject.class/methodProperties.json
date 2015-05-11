@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"new" : "mib 10/10/2014 09:02" },
+	"instance" : {
+		"ifNil:" : "mib 10/10/2014 23:44",
+		"ifNil:ifNotNil:" : "mib 10/10/2014 23:44",
+		"ifNotNil:" : "mib 10/10/2014 23:44",
+		"ifNotNil:ifNil:" : "mib 10/10/2014 23:44",
+		"isNil" : "mib 10/10/2014 23:40",
+		"notNil" : "mib 10/10/2014 23:40",
+		"printOn:" : "mib 11/4/2014 13:57" } }

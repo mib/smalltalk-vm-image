@@ -1,0 +1,14 @@
+{
+	"category" : "Alpha-Collections-Strings",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "ASString",
+	"pools" : [
+		 ],
+	"super" : "ASArrayedCollection",
+	"type" : "normal" }

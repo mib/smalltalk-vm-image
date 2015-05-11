@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"closure" : "mib 10/24/2014 13:29",
+		"executeEnsureBlock" : "mib 11/7/2014 20:27",
+		"handle:" : "mib 10/17/2014 17:13",
+		"method" : "mib 10/24/2014 13:29",
+		"outerContext" : "mib 10/24/2014 13:53",
+		"receiver" : "mib 10/24/2014 13:29" } }

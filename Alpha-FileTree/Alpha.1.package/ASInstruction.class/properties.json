@@ -1,0 +1,17 @@
+{
+	"category" : "Alpha-Compiler",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"type",
+		"first",
+		"second",
+		"third" ],
+	"name" : "ASInstruction",
+	"pools" : [
+		 ],
+	"super" : "ASObject",
+	"type" : "normal" }
