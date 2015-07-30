@@ -24,3 +24,9 @@ Builder
 -------
 
 Package `ASImageBuilder` contains a tool to export all classes and some basic objects into an image file loadable by the VM.
+
+
+License
+-------
+
+The MIT License, see file `LICENSE` for more information.
